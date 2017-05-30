@@ -11,4 +11,10 @@
         custom:social="facebook"
         />
 
+    <in.championswimmer.libsocialbuttons.FabSocial
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            custom:social="instagram"
+    />
+
 </LinearLayout>
